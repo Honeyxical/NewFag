@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ilyabenikov/Documents/CLionProjects/DevInk_HomeWork/HomeWorks/NewFag/main.cpp
+iostream
+-
+ctime
+-
+
